@@ -14,9 +14,9 @@
   display: none;
 }
 
-#wall .parent #tag-5.slick {
+body div#wall .parent #tag-5.slick {
   display: none;
-}
+
 
 #wall .parent div:last-child #tag-6 {
   display: none;
